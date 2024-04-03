@@ -1,4 +1,4 @@
-# Node.js:
+# Node.js
 
 ## Section 1: Introduction to Node.js
 - What is Node.js?
